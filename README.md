@@ -1,4 +1,4 @@
-# Hetmani i pionek
+## Hetmani i pionek
 
 ### Uwagi:
 - Hetman porusza się pionowo, poziomo lub ukośnie,
