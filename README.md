@@ -1,6 +1,6 @@
 # Hetmani i pionek
 
-## Uwagi:
+### Uwagi:
 - Hetman porusza się pionowo, poziomo lub ukośnie,
 - Maksymalna liczba hetmanów (k) to 5.
 
@@ -24,4 +24,4 @@ Po tym komunikacie użytkownik programu ma możliwość:
 - ponownej weryfikacji bicia po ustaleniu zmian,
 - wyjścia z programu.
 
-##### W pliku test_szachy.py przygotowane zostały przykładowe pytest'y.
+#### W pliku test_szachy.py przygotowane zostały przykładowe pytest'y.
